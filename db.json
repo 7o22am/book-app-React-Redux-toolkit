@@ -1,0 +1,25 @@
+{
+  "book": [
+    {
+      "title": "BOOK1",
+      "price": "120",
+      "description": "HELLO WORLD",
+      "auther": "Author",
+      "id": 1
+    },
+    {
+      "title": "BOOK2",
+      "price": "123",
+      "description": "HELLOW WORLD 2",
+      "auther": "Author",
+      "id": 2
+    },
+    {
+      "title": "BOOK3",
+      "price": "145",
+      "description": "HELLO WORLD3",
+      "auther": "Author",
+      "id": 3
+    }
+  ]
+}
